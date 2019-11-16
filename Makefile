@@ -1,7 +1,7 @@
 ################################################################################
 # These are variables for the GBA toolchain build
 # You can add others if you wish to
-# ***** YOUR NAME HERE *****
+# Thomas Lang
 ################################################################################
 
 # TA-TODO: Put your game name here.
@@ -15,7 +15,7 @@ PROGNAME = Game
 # that will be compiled into your program. For example
 # if you have main.c and myLib.c then in the following
 # line you would put main.o and myLib.o
-OFILES = gba.o font.o game.o images/startScreen.o images/player.o images/gamebg.o images/evil_ship.o images/endgame.o
+OFILES = gba.o myLib.o font.o game.o images/startScreen.o images/player.o images/gamebg.o images/evil_ship.o images/endgame.o images/instructions.o images/controls.o
 
 ################################################################################
 # These are various settings used to make the GBA toolchain work

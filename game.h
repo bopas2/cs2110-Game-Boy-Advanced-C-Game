@@ -1,12 +1,6 @@
 #ifndef GAME_H
 #define GAME_H
 
-#include "gba.h"
-
-                    /* TODO: */
-
-            // Create any necessary structs //
-
 typedef struct player {
         int health;
         int x;
@@ -38,5 +32,15 @@ typedef struct bullet {
         int damage;
         int alive; 
 } Bullet;
+
+typedef struct {
+        int EnemiesAlive;
+        Enemy Enemies[30];
+        Bullet Bullets[15];
+        Player PlayerShip;
+        int MAX_PROJECTILES;
+        int MAX_ENEMIES;
+        int HIGH_SCORE;
+} Game;
 
 #endif
