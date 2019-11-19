@@ -17,4 +17,4 @@ If an enemy ship reaches the bottom of your screen, you will lose health!
 
 Once you reach zero health, the game ends! Good luck and have fun!
 
-![Alt text](/gba-game-png.png?raw=true "game")
+![Settings Window](https://raw.github.com/bopas2/cs2110-Game-Boy-Advanced-C-Game/gba-game-png.png)
