@@ -16,4 +16,5 @@ Enemy ships will spawn from the top of the screen. Killing them rewards you with
 If an enemy ship reaches the bottom of your screen, you will lose health! 
 
 Once you reach zero health, the game ends! Good luck and have fun!
-![alt test](images/gba-game-png)
+
+![Game Img](images/gamebg.png)
