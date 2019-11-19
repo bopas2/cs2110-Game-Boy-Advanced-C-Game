@@ -17,4 +17,4 @@ If an enemy ship reaches the bottom of your screen, you will lose health!
 
 Once you reach zero health, the game ends! Good luck and have fun!
 
-![Screenshot](gba-game-png.png)
+![Alt text](/gba-game-png.png?raw=true "game")
