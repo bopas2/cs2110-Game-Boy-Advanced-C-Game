@@ -1,7 +1,8 @@
 Game: 2110 Last Stand
+
 Author: Thomas Lang
 
-This program is a GBA game where you are a spaceship defending Earth against waves of alien invaders.
+This program is a Game Boy Advanced game where you are a spaceship defending Earth against waves of alien invaders.
 
 You can move your spaceship with the arrow-keys.
 
